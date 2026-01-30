@@ -1,0 +1,7 @@
+{
+  "name": "FactCheck AI - Content Authenticity & Verification",
+  "description": "An advanced verification suite that detects AI-generated content and fact-checks claims within images, videos, and text using Google Search grounding.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
